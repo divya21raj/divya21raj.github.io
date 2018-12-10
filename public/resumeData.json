@@ -1,5 +1,6 @@
 {
   "main": {
+    "version": "1.0.0",
     "name":"Divya Raj",
     "locName":"दिव्य राज",
     "occupation":"Software Developer",
@@ -51,7 +52,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some of the tools and technologies I'm familiar with, along with my personal skill rating for them...",
     "education":[
       {
         "school":"Shiv Nadar University",

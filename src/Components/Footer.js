@@ -4,6 +4,7 @@ class Footer extends Component {
   render() {
 
     if(this.props.data){
+      var version = this.props.data.version;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
@@ -20,6 +21,7 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; Copyright 2018 Divya Raj</li>
+              <li>v{version}</li>
            </ul>
 
         </div>
