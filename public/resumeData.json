@@ -54,16 +54,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Shiv Nadar University",
+        "degree":"B.Tech in CSE",
+        "graduated":"May 2020",
+        "description":"Got introduced to advanced yet fundamental CS concepts like Operating Systems, DBMS, Computer Architecture, Computer Networks, Data Structures and Algorithms, Discrete Maths, Computational Theory etc. Also did a variety of other courses like Microeconomics, Complex Analysis, Data Analytics among some others.\nThis place gave me a platform to find like minded people and follow my true passions."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Rotary Public School, Gurgaon",
+        "degree":"Non-Medical with CS",
+        "graduated":"March 2016",
+        "description":"Played a big role in shaping the current me. Learnt my Computer Science ABCD here with C++. Also got started with game dev while I was here. Won a lot of Art and Craft competitions, \"Just a minute\" speeches, the Tech Wizard award of my school, and many more accomplishements along with some great memories."
       }
     ],
     "work":[
