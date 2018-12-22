@@ -436,6 +436,9 @@ ul#nav li.current a { color:rgb(240, 28, 0); }
    background: #fff;
    overflow: hidden;
    position: relative;
+   margin: auto;
+   margin-bottom: 40px;
+   max-width: 600px;
 
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;

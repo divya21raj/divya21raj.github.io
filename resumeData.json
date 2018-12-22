@@ -139,6 +139,12 @@
         "category":"A C++ game simulating the classic school game of Odd-Eve cricket.",
         "image":"vc.png",
         "url":"https://drive.google.com/open?id=0B6TZh6H6PVzTRzhCaG1VNDBaMUU"
+      },
+      {
+        "title":"More...",
+        "category":"Check out more of my projects on my github page.",
+        "image":"github.jpeg",
+        "url":"https://github.com/divya21raj"
       }
     ]
   },
