@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -438,9 +438,7 @@ ul#nav li.current a { color:rgb(240, 28, 0); }
    position: relative;
    margin: auto;
    margin-bottom: 40px;
-   max-width: 600px;
-   max-width: 84%;
-
+   max-width: 520px;
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
