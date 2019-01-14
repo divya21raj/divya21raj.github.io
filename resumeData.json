@@ -20,24 +20,9 @@
     "resumedownload":"https://drive.google.com/uc?export=download&id=1QVGHhMwtBNWAixNOzafN4sgFjrfEa-9k",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/divya21raj",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/divya21raj",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/divya-raj-0b865a125/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/divya21raj",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -48,6 +33,21 @@
         "name":"skype",
         "url":"skype:divya21raj",
         "className":"fa fa-skype"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/divya21raj",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/divya21raj",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/divya21raj",
+        "className":"fa fa-instagram"
       }
     ]
   },
