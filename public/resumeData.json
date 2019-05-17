@@ -1,12 +1,12 @@
 {
   "main": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "name":"Divya Raj",
     "locName":"दिव्य राज",
     "occupation":"Software Developer",
     "description":"An aspiring student with a flair for perfection. Good at making mobile apps, hacking up a solution to a problem and editing videos. Talk video games to me and you're my best friend",
-    "image":"profilepic.jpeg",
-    "bio":"I've been coding forthe last 5 years, starting with C/C++, moving on to Java, and then Python and JS. I've made some cool projects as I went along, solidifying my understanding of everything I learnt. \nCurrently, I'm pursuing an undergraduate degree in Computer Science from Shiv Nadar University, graduating in 2020.\n I have one internship under my belt and three of my apps are currently on the Play Store. I've just got into ML and AI and planning to make some kickass projects there as well...\nI've always been a fan of video games and it's infact my love for games that got me into CS. Even though I'm much busier now, I'll always find time for a good game :)\nContact me on any of my socials for work related stuff or just general chit chat... I'm all ears.",
+    "image":"profilepic.jpg",
+    "bio":"I've been coding for the last 5 years, starting with C/C++, moving on to Java, and then Python and JS. I've made some cool projects as I went along, solidifying my understanding of everything I learnt. \nCurrently, I'm pursuing an undergraduate degree in Computer Science from Shiv Nadar University, graduating in 2020.\n I have one internship under my belt and three of my apps are currently on the Play Store. I've just got into ML and AI and planning to make some kickass projects there as well...\nI've always been a fan of video games and it's infact my love for games that got me into CS. Even though I'm much busier now, I'll always find time for a good game :)\nContact me on any of my socials for work related stuff or just general chit chat... I'm all ears.",
     "contactmessage":"Want to have a chat? \nJust write your mail down below to get in touch...",
     "email": "divya21raj@gmail.com",
     "phone": "+91 700839472",
@@ -20,24 +20,9 @@
     "resumedownload":"https://drive.google.com/uc?export=download&id=1QVGHhMwtBNWAixNOzafN4sgFjrfEa-9k",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/divya21raj",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/divya21raj",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/divya-raj-0b865a125/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/divya21raj",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -48,6 +33,21 @@
         "name":"skype",
         "url":"skype:divya21raj",
         "className":"fa fa-skype"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/divya21raj",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/divya21raj",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/divya21raj",
+        "className":"fa fa-instagram"
       }
     ]
   },
@@ -123,10 +123,16 @@
         "url":"https://play.google.com/store/apps/details?id=garbagecollectors.com.unipool&hl=en"
       },
       {
-        "title":"Actor Recognition in Movie",
+        "title":"Actor Recognition in Movies",
         "category":"Recognizing actors in a movie clip or image, using OpenCV, DeepLearning and Python. ",
         "image":"faceRec.png",
         "url":"https://github.com/divya21raj/Actor-Recognition-In-Movies"
+      },
+      {
+        "title":"Postcard",
+        "category":"A social media for travelers. Android + Kotlin",
+        "image":"postcard.png",
+        "url":"https://github.com/Studio-7/Postcard-Android"
       },
       {
         "title":"ShareBear",

@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://divya21raj.github.io",
   "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
     "react": "^16.6.3",

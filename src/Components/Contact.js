@@ -10,7 +10,7 @@ class Contact extends Component {
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
-      var email = this.props.data.email;
+      //var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
 
@@ -27,7 +27,7 @@ class Contact extends Component {
 
             <div className="ten columns">
 
-                  <p className="lead"><span style={{"white-space": "pre-line"}}>{message}</span></p>
+                  <p className="lead"><span style={{"whiteSpace": "pre-line"}}>{message}</span></p>
 
             </div>
 
