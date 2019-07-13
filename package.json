@@ -5,10 +5,10 @@
   "homepage": "https://divya21raj.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "jquery": "^3.3.1",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-ga": "^2.5.6",
+    "jquery": "^3.4.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-ga": "^2.6.0",
     "react-scripts": "2.1.1"
   },
   "scripts": {
