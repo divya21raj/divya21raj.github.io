@@ -135,6 +135,12 @@
         "url":"https://github.com/divya21raj/Actor-Recognition-In-Movies"
       },
       {
+        "title":"Postcard",
+        "category":"A social media app for travelers, Android+Kotlin",
+        "image":"postcard.png",
+        "url":"https://github.com/Studio-7/Postcard-Android"
+      },
+      {
         "title":"ShareBear",
         "category":"A sharing platform for my university. A React Native app",
         "image":"sharebear.png",
