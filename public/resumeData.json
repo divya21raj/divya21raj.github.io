@@ -1,12 +1,12 @@
 {
   "main": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "name":"Divya Raj",
     "locName":"दिव्य राज",
     "occupation":"Software Developer",
-    "description":"An aspiring student with a flair for perfection. Good at making mobile apps, hacking up a solution to a problem and editing videos. Talk video games to me and you're my best friend",
+    "description":"An aspiring student with a flair for perfection. Good at making mobile apps, hacking up a solution to a problem and picking up your local language. Talk video games to me and you're my best friend",
     "image":"profilepic.jpg",
-    "bio":"I've been coding for the last 5 years, starting with C/C++, moving on to Java, and then Python and JS. I've made some cool projects as I went along, solidifying my understanding of everything I learnt. \nCurrently, I'm pursuing an undergraduate degree in Computer Science from Shiv Nadar University, graduating in 2020.\n I have one internship under my belt and three of my apps are currently on the Play Store. I've just got into ML and AI and planning to make some kickass projects there as well...\nI've always been a fan of video games and it's infact my love for games that got me into CS. Even though I'm much busier now, I'll always find time for a good game :)\nContact me on any of my socials for work related stuff or just general chit chat... I'm all ears.",
+    "bio":"I've been coding for the last 5 years, starting with C/C++, moving on to Java, and then Python and JS. I've made some cool projects as I went along, solidifying my understanding of everything I learnt. \nCurrently, I'm pursuing an undergraduate degree in Computer Science from Shiv Nadar University, graduating in 2020.\n I have three internship under my belt and three of my apps are currently on the Play Store. I've just got into ML and AI and planning to make some kickass projects there as well...\nI've always been a fan of video games and it's infact my love for games that got me into CS. Even though I'm much busier now, I'll always find time for a good game....\nRecently, I've also developed an interest in learning various languages. I spend my free time honing my Korean, Spanish and Telugu. I can only get better at them :)\nContact me on any of my socials for work related stuff or just general chit chat... I'm all ears.",
     "contactmessage":"Want to have a chat? \nJust write your mail down below to get in touch...",
     "email": "divya21raj@gmail.com",
     "phone": "+91 700839472",
@@ -16,7 +16,7 @@
       "state":"Haryana",
       "zip": "122017"
     },
-    "website": "http://www.divya21raj.github.io",
+    "website": "http://www.divyaraj.me",
     "resumedownload":"https://drive.google.com/uc?export=download&id=1QVGHhMwtBNWAixNOzafN4sgFjrfEa-9k",
     "social":[
       {
@@ -58,7 +58,7 @@
         "school":"Shiv Nadar University",
         "degree":"B.Tech in CSE",
         "graduated":"May 2020",
-        "description":"Got introduced to advanced yet fundamental CS concepts like Operating Systems, DBMS, Computer Architecture, Computer Networks, Data Structures and Algorithms, Discrete Maths, Computational Theory etc. Also did a variety of other courses like Microeconomics, Complex Analysis, Data Analytics among some others.\nThis place gave me a platform to find like minded people and follow my true passions."
+        "description":"Got introduced to complex yet fundamental CS concepts like Operating Systems, DBMS, Computer Architecture, Computer Networks, Data Structures and Algorithms, Discrete Maths, Computational Theory etc. Also did a variety of other courses like Microeconomics, Complex Analysis, Data Analytics among some others.\nThis place gave me a platform to find like minded people and follow my true passions."
       },
       {
         "school":"Rotary Public School, Gurgaon",
@@ -72,9 +72,19 @@
         "company":"Plabro",
         "title":"Android Development Intern",
         "years":"May 2018 - Nov 2018",
-        "logo": "plabro.png",
-        "link": "http://www.plabro.com/",
-        "description":"Summer Internship, in which I worked on their new Android application ”Lookup”, a real estate app that automatically picks up empty properties, and suggests them to buyers.\n• Working with REST APIs.\n• Chat SDK integration.\n• Optimizing and building new UI on top of the already existing one."
+        "description":"A startup in Gurgaon. I worked on their new Android application \"Lookup\", a real estate app that automatically picks up empty properties, and suggests them to buyers.\n• Working with REST APIs.\n• Chat SDK integration.\n• Optimizing and building new UI on top of the already existing one."
+      },
+      {
+        "company":"Dell",
+        "title":"Software Development Intern",
+        "years":"May 2019 - Jul 2019",
+        "description":"Summer Internship in their Bangalore offices. My first corporate experience, was daunting at first but got the hang of it eventually. My work involved JWT authentication, wrapped up in Kubernetes and the service mesh called Istio. Learned a lot here, both in the tech and non-tech domains."
+      },
+      {
+        "company":"Goldman Sachs",
+        "title":"Technical Analyst Intern",
+        "years":"Jan 2020 - May 2020",
+        "description":"PPO, yet again in Bangalore. Will update later..."
       }
     ],
     "skills":[
@@ -99,8 +109,8 @@
         "level":"90%"
       },
       {
-        "name":"Django",
-        "level":"60%"
+        "name":"Kubernetes",
+        "level":"70%"
       },
       {
         "name":"Python Scripting",
@@ -132,7 +142,7 @@
       },
       {
         "title":"Postcard",
-        "category":"A social media for travelers. Android + Kotlin",
+        "category":"A social media app for travelers, Android+Kotlin",
         "image":"postcard.png",
         "url":"https://github.com/Studio-7/Postcard-Android"
       },
