@@ -45,6 +45,12 @@
     "skillmessage": "Here are some of the tools and technologies I'm familiar with, along with my personal skill rating for them...",
     "education": [
       {
+        "school": "Carnegie Mellon University",
+        "degree": "Master's in Software Engineering - Scalable Systems",
+        "graduated": "Dec 2023",
+        "description": "Will hopefully graduate as a complete software profesional, having the knowledge for delivering a software solution, front to back. Will fill this up later."
+      },
+      {
         "school": "Shiv Nadar University",
         "degree": "B.Tech in CSE",
         "graduated": "May 2020",
@@ -73,7 +79,7 @@
       {
         "company": "Goldman Sachs",
         "title": "Technical Analyst - Intern + FTE",
-        "years": "Jan 2020 - Now",
+        "years": "Jan 2020 - Aug 2022",
         "description": "My first full time job. Have developed both as a developer and as a professional while here. My first project involved working on adapting current data pathways according a new system we were developing. Lots of architecture analysis, python automation and a java library development in there. Followed this up by working with ReactTS to display large amounts of data efficiently and beautifully."
       }
     ],
