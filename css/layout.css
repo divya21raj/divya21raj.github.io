@@ -60,6 +60,7 @@ header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
+   -webkit-text-stroke: 0.2px black;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
@@ -179,7 +180,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color:rgb(240, 28, 0); }
+ul#nav li.current a { color:rgb(212, 154, 241); }
 
 
 /* ------------------------------------------------------------------ */
