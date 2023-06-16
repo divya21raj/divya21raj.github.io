@@ -1,10 +1,10 @@
 {
   "main": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "name": "Divya Raj",
     "locName": "दिव्य राज",
     "occupation": "Software Developer",
-    "description": "An ambitious professional with a flair for perfection. Good at making mobile apps, hacking up a solution to a problem and picking up your local language. Talk video games to me and you're my best friend",
+    "description": "Full-stack engineer with a flair for perfection. Good at hacking up a solution to a problem, soliving things at scale, and picking up your local language. Talk video games to me and you're my best friend",
     "image": "profilepic.jpg",
     "bio": "I've been coding for the last 9 years, starting with C/C++, moving on to Java, and then Python and JS. I've made some cool projects as I went along, solidifying my understanding of everything I learnt. \n\n I have professional experience from working at Dell and then at Goldman Sachs, which I am currently building upon as a graduate student in Software Engineering at Carnegie Mellon University.   \n\nI got my undergraduate degree in Computer Science from Shiv Nadar University, graduating in 2020. I have two prior internships under my belt and three of my apps are currently on the Play Store.\n\nI've always been a fan of video games and it is in fact my love for games that got me into CS. Even though I'm much busier now, I'll always find time for a good game.... \n\nAlong with that I enjoy reading about history and non-fiction in my free time. Recently, I've also developed an interest in learning various languages. I spend my free time honing my Korean, Spanish and Telugu. I can only get better at them :)\n\nContact me on any of my socials for work related stuff or just general chit chat... I'm all ears.",
     "contactmessage": "Want to have a chat? \nJust write your mail down below to get in touch...",
@@ -64,6 +64,12 @@
       }
     ],
     "work": [
+      {
+        "company": "Zoox, Inc.",
+        "title": "Full Stack Intern",
+        "years": "May 2023 - Aug 2023",
+        "description": "Summer internship in which I worked on a full stack dashboard project, which was to be used by upper managements, in mission control rooms and in company wide all-hands meetings. Shows a high level view of all operational metrics for the entire fleet of Zoox's vehicles. First real work experience in the US, took some time to get used to the work culture here, but eventually got the hang of it."
+      },
       {
         "company": "Goldman Sachs",
         "title": "Technical Analyst - Intern + FTE",
