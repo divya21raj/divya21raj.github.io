@@ -150,6 +150,12 @@
         "url": "https://github.com/divya21raj/Actor-Recognition-In-Movies"
       },
       {
+        "title": "Nalanda.AI",
+        "category": "A hackathon project, which uses GPT4 to make education available to all, regardless of their language of instruction",
+        "image": "nalanda.png",
+        "url": "https://devpost.com/software/nalandaai"
+      },
+      {
         "title": "Wiew",
         "category": "Enjoy videos in sync with your friends, while video calling them",
         "image": "wiew.png",
